@@ -3,4 +3,5 @@ Use the Script Editor to run the script.
 ( Enjoy unprecedented speed. Can support the developer: Kasikorn Bank, account number 136-1-81187-5  / Bank of Thailand
  
  วิธีใช้งาน Script อย่างละเอียด :  How to use Script in detail.
-Youtube : 
+ 
+ Youtube : 
