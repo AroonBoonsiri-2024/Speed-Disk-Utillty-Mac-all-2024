@@ -1,5 +1,6 @@
 # Speed-Disk-Utillty-Mac-all-2024 
-OPEN & RUN with Script Editor
+OPEN & RUN with Script Editor 
+: Code example ตัวอย่างโค้ด
 
 display dialog " (เปลี่ยนภาษาเป็นภาษาอังกฤษก่อน Run APP / Change the language to English before running the APP.)  " buttons {"OK"} default button "OK"
 repeat 20 times
