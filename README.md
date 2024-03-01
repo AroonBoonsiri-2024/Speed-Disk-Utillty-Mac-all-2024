@@ -10,3 +10,4 @@ end repeat
 display dialog "  ขอให้สนุกกับความเร็วที่ได้ สนับสนุนผู้พัฒนาได้  เลขบัญชี 136-1-81187-5 กสิกรไทย ผู้พัฒนา นาย อรุณ บุญศิริ Aroon Boonsiri 
 ( Enjoy unprecedented speed. Can support the developer: Kasikorn Bank : Bank of Thailand , account number 136-1-81187-5, developer Mr. Aroon Boonsiri, ) " buttons {"OK"} default button "OK"
 tell application "Disk Utility" to activate
+ 
