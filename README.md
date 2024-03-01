@@ -1,6 +1,5 @@
 # Speed-Disk-Utillty-Mac-all-2024 
 
-
 display dialog " (เปลี่ยนภาษาเป็นภาษาอังกฤษก่อน Run APP / Change the language to English before running the APP.)  " buttons {"OK"} default button "OK"
 repeat 20 times
 	do shell script "diskutil verifyVolume /"
