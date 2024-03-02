@@ -5,5 +5,6 @@ Use the Script Editor to run the script.
 ( Enjoy unprecedented speed. Can support the developer: Kasikorn Bank, account number 136-1-81187-5  / Bank of Thailand
  
  วิธีใช้งาน Script อย่างละเอียด :  How to use Script in detail.
+ How To Speed Up Your Mac When It's Running Slow - SpeedMacOs all 2024
  
- Youtube : 
+ Youtube : https://www.youtube.com/watch?v=jGr0kD9RLRQ&t=12s
