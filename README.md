@@ -7,4 +7,5 @@ Use the Script Editor to run the script.
  วิธีใช้งาน Script อย่างละเอียด :  How to use Script in detail.
  How To Speed Up Your Mac When It's Running Slow - SpeedMacOs all 2024
  
- Youtube : https://www.youtube.com/watch?v=jGr0kD9RLRQ&t=12s
+ Youtube วิธีทำ: https://www.youtube.com/watch?v=jGr0kD9RLRQ&t=12s
+
